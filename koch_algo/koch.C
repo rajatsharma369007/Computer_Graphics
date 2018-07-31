@@ -1,3 +1,7 @@
+// this is a program to draw section of a snow flake using koch algo
+// Author: Rajat Sharma
+// Date: oct, 2017
+
 #include<graphics.h>
 #include<conio.h>
 #include<math.h>
