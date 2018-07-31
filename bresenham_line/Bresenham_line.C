@@ -1,3 +1,7 @@
+// this is a program to draw a straight line using bresenham line algorithm
+// Author: Rajat Sharma
+// Date: Aug, 2017
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
