@@ -1,3 +1,7 @@
+// this is program to draw a circle using midpoint circle algorithm
+// Author: Rajat Sharma
+// Date: oct, 2017
+
 #include<stdio.h>
 #include<graphics.h>
  
