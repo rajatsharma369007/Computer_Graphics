@@ -1,3 +1,7 @@
+// this is a program to show different transformation like scaling, reflection, rotation, translation
+// Author: Rajat Sharma
+// Date: Nov, 2017
+
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>
