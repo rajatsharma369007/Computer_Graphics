@@ -1,3 +1,7 @@
+// this is a program to draw line using dda algorithm
+// Author: Rajat Sharma
+// Date: sept, 2017
+
 #include <graphics.h>
 #include <stdio.h>
 #include <math.h>
