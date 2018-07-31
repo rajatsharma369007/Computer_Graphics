@@ -1,3 +1,7 @@
+// this is a program to draw a fractal
+// Author: Rajat Sharma
+// Date: sept, 2017
+
 #include<stdio.h>
 #include<math.h>
 #include<graphics.h>
